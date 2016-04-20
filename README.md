@@ -19,7 +19,7 @@
 
 # cordova-plugin-screen-orientation
 
-This plugin provides an implementation of the [Screen Orientation API](http://www.w3.org/TR/2015/WD-screen-orientation-20150428/), which provides the ability to read the screen orientation type and angle, to be informed when the screen orientation state changes, and be able to lock the screen orientation to a specific state.
+This plugin provides an implementation of the [Screen Orientation API](http://www.w3.org/TR/2015/WD-screen-orientation-20151223/), which provides the ability to read the screen orientation type and angle, to be informed when the screen orientation state changes, and be able to lock the screen orientation to a specific state.
 
 Access is via a global `navigator.screen.orientation` object.
 
@@ -41,9 +41,8 @@ Although the object is attached to the global scoped `navigator`, it is not avai
 
 ## Future Platforms
 
-- BlackBerry 10
-- Firefox OS
 - Windows
+- Browser
 
 ## Properties
 

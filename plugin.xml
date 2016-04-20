@@ -24,7 +24,7 @@
     <name>Screen Orientation</name>
     <description>Cordova Screen Orientation Plugin</description>
     <license>Apache 2.0</license>
-    <keywords>cordova,orientation</keywords>
+    <keywords>cordova,screen,orientation</keywords>
     <repo>https://github.com/tony--/cordova-plugin-screen-orientation</repo>
     <issue>https://github.com/tony--/cordova-plugin-screen-orientation/issues</issue>
 

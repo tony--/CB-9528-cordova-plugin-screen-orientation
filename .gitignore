@@ -1,0 +1,23 @@
+﻿#Ignorance more frequently begets confidence than does knowledge
+
+*.csproj.user
+*.suo
+*.cache
+Thumbs.db
+*.DS_Store
+
+*.bak
+*.cache
+*.log
+*.swp
+*.user
+
+node_modules
+
+
+
+
+
+
+
+ 
